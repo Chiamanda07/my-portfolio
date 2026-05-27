@@ -1,4 +1,4 @@
-# Chiamanda Ononiwu's Portfolio
+# My Engineering Portfolio
 
 A cute, bubbly portfolio for hardware engineering and software engineering.
 
