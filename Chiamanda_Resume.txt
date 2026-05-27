@@ -1,0 +1,57 @@
+Chiamanda Ononiwu
+Hardware Engineering and Software Engineering Portfolio
+
+Summary
+Engineering student and builder focused on embedded systems, AI, PCB design, and software projects. Strong mix of hands-on hardware work, research experience, and community leadership.
+
+Contact
+Email: karenononiwu15@gmail.com
+LinkedIn: https://www.linkedin.com/in/chiamanda-ononiwu
+GitHub: https://github.com/Chiamanda07
+
+Experience
+Ursa Space Systems — Break Through Tech AI Fellow
+Aug 2025 – Dec 2025
+- Built a satellite imagery classification pipeline using Vision Transformers to analyze SAR data.
+- Improved classification recall by 52.83% through iterative feature extraction.
+- Achieved 80% recall and authored performance reports for stakeholders.
+- Tech stack: PyTorch, Vision Transformers, Scikit-learn, SARPy, Python.
+
+Morgan State University CEAMLS — Undergraduate Research Project Manager
+May 2025 – Aug 2025
+- Led a team building an AI-powered smart waste monitoring system integrating IoT hardware with an ML backend.
+- Managed a 4-member team end-to-end and coordinated delivery.
+- Projected 40% efficiency gain and 30% fuel reduction.
+- Tech stack: ESP32, C++, Python, Pandas, NumPy, Scikit-learn, ultrasonic/gas/GPS sensors.
+
+Projects
+Emotion Responsive AI Robot
+- Voice-to-emotion pipeline on an ESP32-S3.
+- Mic input to Gemini API to NLP sentiment classifier to facial display and TTS output.
+- Tech stack: ESP32-S3, INMP441 mic, Gemini API, NLP/sentiment analysis, Wi-Fi, Python.
+
+StudyBot — AI RAG Study Assistant
+- Grounded PDF study assistant that retrieves relevant chunks and answers only from uploaded documents.
+- Tech stack: Python, Gemini API, pdfplumber, pytest, prompt engineering.
+
+6-Key Macropad
+- Designed the schematic, PCB, enclosure, and firmware for a custom mini keyboard.
+- Tech stack: KiCad, Fusion 360, C++ embedded firmware.
+
+Light-Up Keychain
+- Built a compact custom PCB with integrated lighting and a keychain mount.
+- Tech stack: PCB design tools, soldering, compact circuit design.
+
+Digital System Design Lab
+- Implemented combinational and sequential logic systems from first principles.
+- Tech stack: Boolean algebra, logic gate design, Falstad/LTspice, hardware lab tools.
+
+Leadership
+McNeese NSBE — TORCH Chair
+Apr 2025 – Present
+- Lead STEM outreach initiatives across Calcasieu Parish.
+- Organized a tech bowl event and established a Big Brothers Big Sisters partnership.
+- Built a database of 15+ STEM outreach partners and recruited 7+ volunteers.
+
+Skills
+Embedded systems, PCB design, FPGA/digital logic foundations, Python, C++, AI/ML workflows, data analysis, team leadership, technical communication
